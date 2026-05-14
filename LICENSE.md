@@ -1,4 +1,4 @@
-# 
+# Enhance GitKraken for PC | GitKraken for Windows with new GitKraken for PC | GitKraken for Windows Tool | GPG-signing + issue-tracking, the #1 tool. Includes GPG-signing and
 
 
 
